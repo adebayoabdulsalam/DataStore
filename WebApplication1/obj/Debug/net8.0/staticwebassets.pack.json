@@ -5,6 +5,34 @@
       "PackagePath": "staticwebassets\\WebApplication1.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\HP\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\Product\\22866337.jpg",
+      "PackagePath": "staticwebassets\\Product\\22866337.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\Product\\23_075256.jpg",
+      "PackagePath": "staticwebassets\\Product\\23_075256.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\Product\\57_080040.jpg",
+      "PackagePath": "staticwebassets\\Product\\57_080040.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\Product\\687_090015.jpg",
+      "PackagePath": "staticwebassets\\Product\\687_090015.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\Product\\BKP_542_084008.jpg",
+      "PackagePath": "staticwebassets\\Product\\BKP_542_084008.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\Product\\IMG_20231217_144939_939.jpg",
+      "PackagePath": "staticwebassets\\Product\\IMG_20231217_144939_939.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\Product\\SSC_2235.jpg",
+      "PackagePath": "staticwebassets\\Product\\SSC_2235.jpg"
+    },
+    {
       "Id": "C:\\Users\\HP\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -243,34 +271,6 @@
     {
       "Id": "C:\\Users\\HP\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
-    },
-    {
-      "Id": "C:\\Users\\HP\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\products\\22866337.jpg",
-      "PackagePath": "staticwebassets\\products\\22866337.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\products\\23_075256.jpg",
-      "PackagePath": "staticwebassets\\products\\23_075256.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\products\\57_080040.jpg",
-      "PackagePath": "staticwebassets\\products\\57_080040.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\products\\687_090015.jpg",
-      "PackagePath": "staticwebassets\\products\\687_090015.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\products\\BKP_542_084008.jpg",
-      "PackagePath": "staticwebassets\\products\\BKP_542_084008.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\products\\IMG_20231217_144939_939.jpg",
-      "PackagePath": "staticwebassets\\products\\IMG_20231217_144939_939.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\products\\SSC_2235.jpg",
-      "PackagePath": "staticwebassets\\products\\SSC_2235.jpg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props",

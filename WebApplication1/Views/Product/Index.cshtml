@@ -1,6 +1,6 @@
 @using Microsoft.AspNetCore.Mvc.TagHelpers
 @using WebApplication1.Models
-@model List<WebApplication1.Models.    Product>
+@model List<WebApplication1.Models.Product>
 @{
 }
 <h2 class="text-center mb-5">List Product</h2>
@@ -11,6 +11,7 @@
     </div>
     <div class="col">
         
+
     </div>
 </div>
 
@@ -39,9 +40,9 @@
             <td><img src="/products/@product.ImageFileName" width="100" /></td>
             <td>@product.CreatedAt.ToString("MM/dd/yyyy")</td>
             <td style="white-space:nowrap">
-                <a class="btn btn-primary btn-sm" asp-controller="Products" asp-action="Edit"
+                <a class="btn btn-primary btn-sm" asp-controller="Product" asp-action="Edit"
                    asp-route-id="@product.Id">EDIT</a>
-                <a class="btn btn-danger btn-sm" asp-controller="Products" asp-action="Delete" 
+                <a class="btn btn-danger btn-sm" asp-controller="Product" asp-action="Delete" 
                    asp-route-id="@product.Id">Delete</a>
             </td>
         </tr>

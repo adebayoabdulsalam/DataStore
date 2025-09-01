@@ -141,3 +141,4 @@ C:\Users\HP\RiderProjects\WebApplication1\WebApplication1\obj\Debug\net8.0\refin
 C:\Users\HP\RiderProjects\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
 C:\Users\HP\RiderProjects\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 C:\Users\HP\RiderProjects\WebApplication1\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\Users\HP\RiderProjects\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json

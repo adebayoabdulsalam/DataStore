@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IIPy6cxo1Q/DFsCkzKjvCV4tyWxm5HACHZJmZAdicbs=",
+  "Hash": "YP/lyIKRuebzjm22BxdUZcGsHvm64RxjfcSmrqWcsbM=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -1195,12 +1195,12 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\HP\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\products\\22866337.jpg",
+      "Identity": "C:\\Users\\HP\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\Product\\22866337.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\HP\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "products/22866337.jpg",
+      "RelativePath": "Product/22866337.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1211,15 +1211,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\products\\22866337.jpg"
+      "OriginalItemSpec": "wwwroot\\Product\\22866337.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\products\\23_075256.jpg",
+      "Identity": "C:\\Users\\HP\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\Product\\23_075256.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\HP\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "products/23_075256.jpg",
+      "RelativePath": "Product/23_075256.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1230,15 +1230,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\products\\23_075256.jpg"
+      "OriginalItemSpec": "wwwroot\\Product\\23_075256.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\products\\57_080040.jpg",
+      "Identity": "C:\\Users\\HP\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\Product\\57_080040.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\HP\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "products/57_080040.jpg",
+      "RelativePath": "Product/57_080040.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1249,15 +1249,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\products\\57_080040.jpg"
+      "OriginalItemSpec": "wwwroot\\Product\\57_080040.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\products\\687_090015.jpg",
+      "Identity": "C:\\Users\\HP\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\Product\\687_090015.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\HP\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "products/687_090015.jpg",
+      "RelativePath": "Product/687_090015.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1268,15 +1268,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\products\\687_090015.jpg"
+      "OriginalItemSpec": "wwwroot\\Product\\687_090015.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\products\\BKP_542_084008.jpg",
+      "Identity": "C:\\Users\\HP\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\Product\\BKP_542_084008.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\HP\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "products/BKP_542_084008.jpg",
+      "RelativePath": "Product/BKP_542_084008.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1287,15 +1287,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\products\\BKP_542_084008.jpg"
+      "OriginalItemSpec": "wwwroot\\Product\\BKP_542_084008.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\products\\IMG_20231217_144939_939.jpg",
+      "Identity": "C:\\Users\\HP\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\Product\\IMG_20231217_144939_939.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\HP\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "products/IMG_20231217_144939_939.jpg",
+      "RelativePath": "Product/IMG_20231217_144939_939.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1306,15 +1306,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\products\\IMG_20231217_144939_939.jpg"
+      "OriginalItemSpec": "wwwroot\\Product\\IMG_20231217_144939_939.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\products\\SSC_2235.jpg",
+      "Identity": "C:\\Users\\HP\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\Product\\SSC_2235.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\HP\\RiderProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "products/SSC_2235.jpg",
+      "RelativePath": "Product/SSC_2235.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1325,7 +1325,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\products\\SSC_2235.jpg"
+      "OriginalItemSpec": "wwwroot\\Product\\SSC_2235.jpg"
     }
   ]
 }
